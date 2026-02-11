@@ -1,4 +1,4 @@
-//Water Tariff Calculator (C Program)
+# Water Tariff Calculator (C Program)
 
 โปรแกรมภาษา C สำหรับคำนวณค่าน้ำประปาตามอัตราขั้นบันได พร้อมค่าบริการตามขนาดมิเตอร์ และ VAT 7%
 
